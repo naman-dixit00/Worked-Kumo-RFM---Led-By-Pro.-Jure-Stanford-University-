@@ -1,5 +1,5 @@
 # Worked-Kumo-RFM---Led-By-Pro.-Jure-Stanford-University-
-<img src="images/my_image.png" alt="Description of the image" width="500"/>
+<img src="https://github.com/naman-dixit00/Worked-Kumo-RFM---Led-By-Pro.-Jure-Stanford-University-/blob/main/Webinar%20Banner.png" alt="Description of the image" width="1000"/>
 Attended a  Workshop on KUMO RFM by Pro Jure . and also  worked as a  Beta Tester  of KUMO RFM  Model  by  Pro. Jure Leskovec, Co-founder of Kumo and Professor at Stanford University.
 and also submitted out honest feedback after testing the KUMO RFM .
 
